@@ -11,15 +11,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>20875763</integer>
+			<integer>21324864</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>20875763</integer>
+			<integer>21324864</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>26232573</integer>
+			<integer>26833097</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>26232573</integer>
+			<integer>26833097</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -54,15 +54,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>20875774</integer>
+			<integer>21324866</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>20875774</integer>
+			<integer>21324866</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>26232604</integer>
+			<integer>26833128</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>26232604</integer>
+			<integer>26833128</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -99,15 +99,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>20782620</integer>
+			<integer>21231550</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>20782620</integer>
+			<integer>21231550</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>26417678</integer>
+			<integer>27018170</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>26417678</integer>
+			<integer>27018170</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -176,15 +176,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>20913982</integer>
+			<integer>21362906</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>20913982</integer>
+			<integer>21362906</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>26550159</integer>
+			<integer>27150651</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>26550159</integer>
+			<integer>27150651</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -223,15 +223,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>20782579</integer>
+			<integer>21231514</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>20782579</integer>
+			<integer>21231514</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>26417293</integer>
+			<integer>27017785</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>26417293</integer>
+			<integer>27017785</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -274,15 +274,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>20875784</integer>
+			<integer>21324871</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>20875784</integer>
+			<integer>21324871</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>26232583</integer>
+			<integer>26833107</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>26232583</integer>
+			<integer>26833107</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
@@ -317,15 +317,15 @@
 			<key>onDemandResourcesAssetPacks</key>
 			<dict/>
 			<key>sizeCompressedApp</key>
-			<integer>21884122</integer>
+			<integer>22335043</integer>
 			<key>sizeCompressedAppAndODR</key>
-			<integer>21884122</integer>
+			<integer>22335043</integer>
 			<key>sizeCompressedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedApp</key>
-			<integer>28740158</integer>
+			<integer>29340652</integer>
 			<key>sizeUncompressedAppAndODR</key>
-			<integer>28740158</integer>
+			<integer>29340652</integer>
 			<key>sizeUncompressedInitialPrefetchedODR</key>
 			<integer>0</integer>
 			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>

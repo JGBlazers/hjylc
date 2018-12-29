@@ -7,16 +7,23 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://www.lhqcpay.com/public/HJYLC-mobile.ipa</string>
+		<string>https://huangjia.hn796.com/appdownload/HJYLC.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/fcgIsPioneer/hjylc/blob/master/image.57x57.png</string>
+		<string>https://huangjia.hn796.com/appdownload/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/fcgIsPioneer/hjylc/blob/master/image.512x512.png</string>
+		<string>https://huangjia.hn796.com/appdownload/image.512x512.png</string>
 	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>enterprise</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.coolshow.kuxiuTickets</key>
+		<string>KuxiuTickets</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>5F397BC9681CF5390C53A22E1C1881D17084616A</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>

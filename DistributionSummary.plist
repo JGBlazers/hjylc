@@ -13,23 +13,23 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>8EBF8192A31A83FD9495D911FC732104F8315E02</string>
+				<string>5F397BC9681CF5390C53A22E1C1881D17084616A</string>
 				<key>dateExpires</key>
-				<string>2018/12/18</string>
+				<string>2021/12/28</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>YGTMYHD9QN.com.kuxiu.www</string>
+				<string>YGTMYHD9QN.com.coolshow.kuxiuTickets</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>YGTMYHD9QN</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>YGTMYHD9QN.com.kuxiu.www</string>
+					<string>YGTMYHD9QN.com.coolshow.kuxiuTickets</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -37,9 +37,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>e75398e8-66d7-49de-b458-e051b30adaa7</string>
+				<string>09db2369-82b7-4969-8285-30d493a66000</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.kuxiu.www</string>
+				<string>KuxiuTickets</string>
 			</dict>
 			<key>team</key>
 			<dict>
